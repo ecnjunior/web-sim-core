@@ -1,0 +1,23 @@
+{
+  "name": "webgame-sim-core",
+  "version": "1.0.0",
+  "description": "A lightweight, zero-dependency engine for state simulation and deterministic logic in web games.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "game-dev",
+    "simulation",
+    "webgame",
+    "typescript",
+    "tick-engine",
+    "prng"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
